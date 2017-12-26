@@ -1,0 +1,1271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LeftMousedo",
+				"LeftMouseDoubleClickAction"
+			],
+			[
+				"mous",
+				"LeftMouseUpAction"
+			],
+			[
+				"Red",
+				"Redraw	!Redraw"
+			],
+			[
+				"button",
+				"ButtonCommand"
+			],
+			[
+				"ms",
+				"mStateButton"
+			],
+			[
+				"Dynam",
+				"DynamicVariables"
+			],
+			[
+				"update",
+				"UpdateDivider"
+			],
+			[
+				"measure",
+				"MeasureName"
+			],
+			[
+				"MusButtonP",
+				"MusButtonPlay	(Aeo+.ini)"
+			],
+			[
+				"sol",
+				"SolidColor"
+			],
+			[
+				"leftmouse",
+				"LeftMouseUpAction"
+			],
+			[
+				"lineco",
+				"linecolor1	(uservariables.inc)"
+			],
+			[
+				"linec",
+				"linecolor4	(uservariables.inc)"
+			],
+			[
+				"Defa",
+				"DefaultValue"
+			],
+			[
+				"value",
+				"MaxValue"
+			],
+			[
+				"Value",
+				"DefaultValue"
+			],
+			[
+				"line",
+				"LineStart"
+			],
+			[
+				"text",
+				"textcolor1	(uservariables.inc)"
+			],
+			[
+				"MeterButtonS",
+				"MeterButtonShutDown"
+			],
+			[
+				"Meter",
+				"MeterButtonRestart"
+			],
+			[
+				"Hi",
+				"Hidden"
+			],
+			[
+				"refr",
+				"Refresh	!Refresh"
+			],
+			[
+				"St",
+				"String	(Aeo+.ini)"
+			],
+			[
+				"Show",
+				"Show"
+			],
+			[
+				"strign",
+				"STRING"
+			],
+			[
+				"Text",
+				"Text"
+			],
+			[
+				"image",
+				"Image"
+			],
+			[
+				"sub",
+				"Substitute"
+			],
+			[
+				"Leftmous",
+				"LeftMouseUpAction"
+			],
+			[
+				"Ref",
+				"RefreshApp	!RefreshApp"
+			],
+			[
+				"Re",
+				"Refresh	!Refresh"
+			],
+			[
+				"Middlem",
+				"MiddleMouseUpAction"
+			],
+			[
+				"hi",
+				"Hidden"
+			],
+			[
+				"user",
+				"userdetz"
+			],
+			[
+				"rain",
+				"Rainmeter"
+			],
+			[
+				"mouse",
+				"MouseLeaveAction"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"tooltip",
+				"ToolTipText"
+			],
+			[
+				"IM",
+				"Image"
+			],
+			[
+				"Lin",
+				"LineWidth"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"d",
+				"DriveText"
+			],
+			[
+				"LE",
+				"Left	(Aeo+.ini)"
+			],
+			[
+				"I",
+				"IMAGE"
+			],
+			[
+				"rightmo",
+				"RightMouseUpAction"
+			],
+			[
+				"Ima",
+				"IMAGE	(Aeo+.ini)"
+			],
+			[
+				"left",
+				"LeftMouseUpAction"
+			],
+			[
+				"String",
+				"StringStyle	(music.ini)"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"Nex",
+				"NEXA	(Aeo+.ini)"
+			],
+			[
+				"st",
+				"StringAlign"
+			],
+			[
+				"align",
+				"StringAlign"
+			],
+			[
+				"Upda",
+				"UpdateDivider"
+			],
+			[
+				"An",
+				"AntiAlias"
+			],
+			[
+				"ima",
+				"ImageAlpha"
+			],
+			[
+				"Met",
+				"Meter	(Aeo+.ini)"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"IcoBin",
+				"IcoBinFull"
+			],
+			[
+				"set",
+				"SetTransparency	!SetTransparency"
+			],
+			[
+				"Gr",
+				"Group"
+			],
+			[
+				"i",
+				"Image"
+			],
+			[
+				"al",
+				"ImageAlpha"
+			],
+			[
+				"strin",
+				"StringStyle"
+			],
+			[
+				"SKin",
+				"SKINSPATH#	#SKINSPATH#"
+			],
+			[
+				"font",
+				"FontSize"
+			],
+			[
+				"u",
+				"UPPER"
+			],
+			[
+				"string",
+				"StringStyle"
+			],
+			[
+				"MeterArc",
+				"MeterArcCDriveFree"
+			],
+			[
+				"disk",
+				"FreeDiskSpace"
+			],
+			[
+				"proce",
+				"Processor"
+			],
+			[
+				"pro",
+				"Processor"
+			],
+			[
+				"measurec",
+				"MeasureCPUUsage"
+			],
+			[
+				"mesurec",
+				"MeasureCPUUsage"
+			],
+			[
+				"ro",
+				"Roundline"
+			],
+			[
+				"Font",
+				"FontFace"
+			],
+			[
+				"meas",
+				"MeasureName"
+			],
+			[
+				"N",
+				"Normal"
+			],
+			[
+				"stri",
+				"StringStyle"
+			],
+			[
+				"lin",
+				"LineWidth"
+			],
+			[
+				"B",
+				"Bold"
+			],
+			[
+				"Fon",
+				"FontFace"
+			],
+			[
+				"MeasureNet",
+				"MeasureNetOut"
+			],
+			[
+				"ski",
+				"SKINSPATH#	#SKINSPATH#"
+			],
+			[
+				"ol",
+				"Bold"
+			],
+			[
+				"ra",
+				"Rainmeter"
+			],
+			[
+				"on",
+				"OnFocusAction"
+			],
+			[
+				"Mea",
+				"MeasureName"
+			],
+			[
+				"b",
+				"Bold"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "uservariables.inc",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Music Control/music.ini",
+			"settings":
+			{
+				"buffer_size": 18224,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Volume/volumefull.ini",
+			"settings":
+			{
+				"buffer_size": 14339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Date/date.ini",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Greeting/greeting.ini",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Power Control/powertoy.ini",
+			"settings":
+			{
+				"buffer_size": 2210,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "[Metadata]\nName=NEXA clock launcher overlay\nAuthor=Betrant\nInformation=A circular launcher launching up to 16 applications.\nLicense=Creative Commons 3.0\nVersion=1.0\n\n[Variables]\n\n;--To change both the executed command and used image for each icon, edit these variables.\n;--The Buttons are ordered Clockwise, (to the right)\n;--Dont forget to keep the qutation marks!\n;--When changing the icon picture, must have the pic name.png, without the png will not work!\n;--If you want to assign a website to an icon, then first type in the path of the preferred browser\n;--and then the URL, both in double quotation marks and separated by a space.\n\nIcon1Exe=\"C:\\Users\\Titus\\Deskop\\\"\nIcon1Img=\"icons\\desktop.png\"\n\nIcon2Exe=\"C:\\Users\\Titus\\Downloads\\\"\nIcon2Img=\"icons\\downloads.png\"\n\nIcon3Exe=::{20D04FE0-3AEA-1069-A2D8-08002B30309D}\nIcon3Img=\"icons\\computer.png\"\n\nIcon4Exe=\"C:\\Program Files (x86)\\Sublime Text 3\\sublime_text.exe\"\nIcon4Img=\"icons\\sublimetext.png\"\n\nIcon5Exe=\"C:\\Program Files\\CCleaner\\CCleaner64.exe\"\nIcon5Img=\"icons\\ccleaner.png\"\n\nIcon6Exe=\"C:\\Program Files\\Nitro\\Pro 10\\NitroPDF.exe\"\nIcon6Img=\"icons\\nitropdf.png\"\n\nIcon7Exe=\"C:\\Program Files\\paint.net\\PaintDotNet.exe\"\nIcon7Img=\"icons\\paintdotnet.png\"\n\nIcon8Exe=\"C:\\Program Files (x86)\\foobar2000\\foobar2000.exe\"\nIcon8Img=\"icons\\foobar2000.png\"\n\nIcon9Exe=\"C:\\Program Files (x86)\\Comodo\\Dragon\\dragon.exe\" \"www.duckuckgo.com\"\nIcon9Img=\"icons\\chrome.png\"\n\nIcon10Exe=\"C:\\Program Files (x86)\\Opera\\launcher.exe\"\nIcon10Img=\"icons\\opera.png\"\n\nIcon11Exe=\"C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe\"\nIcon11Img=\"icons\\windowsmediaplayer.png\"\n\nIcon12Exe=\"C:\\Windows\\system32\\cmd.exe\"\nIcon12Img=\"icons\\commandprompt.png\"\n\nIcon13Exe=\"software.lnk\"\nIcon13Img=\"icons\\software.png\"\n\nIcon14Exe=\"C:\\Program Files\\Rainmeter\\Rainmeter.exe\"\nIcon14Img=\"icons\\rainmeter.png\"\n\nIcon15Exe=\"office.lnk\"\nIcon15Img=\"icons\\office.png\"\n\nIcon16Exe=\"C:\\Program Files (x86)\\AVG\\Framework\\Common\\avguix.exe\"\nIcon16Img=\"icons\\avgpctuneup.png\"\n\n;--STOP EDITING HERE!--\n\nToggleWheel=\"[!RainmeterToggleMeter MainWheel] [!RainmeterToggleMeter MainText] [!RainmeterToggleMeter Icon1] [!RainmeterToggleMeter Icon2] [!RainmeterToggleMeter Icon3] [!RainmeterToggleMeter Icon4] [!RainmeterToggleMeter Icon5] [!RainmeterToggleMeter Icon6] [!RainmeterToggleMeter Icon7] [!RainmeterToggleMeter Icon8] [!RainmeterToggleMeter Icon9] [!RainmeterToggleMeter Icon10] [!RainmeterToggleMeter Icon11] [!RainmeterToggleMeter Icon12] [!RainmeterToggleMeter Icon13] [!RainmeterToggleMeter Icon14] [!RainmeterToggleMeter Icon15] [!RainmeterToggleMeter Icon16]\"\n\n;-----------------------------------------------------------------------\n\n[MainWheel]\nMeter=IMAGE\nHidden=1\nx=0\ny=0\nImageName=wheel.png\nLeftMouseDoubleClickAction=!Refresh\n\n[MainButton]\nMeter=BUTTON\nX=93\nY=93\nButtonImage=mainbutton.png\nButtonCommand=!Execute #ToggleWheel#\nRightMouseDownAction=!Execute #ToggleInfo#\nAntiAlias=1\n\n;-----------------------------------------------------------------------\n\n[Icon1]\nMeter=BUTTON\nHidden=1\nx=220\ny=12\nButtonImage=#Icon1Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon1Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon2]\nMeter=BUTTON\nHidden=1\nx=300\ny=27\nButtonImage=#Icon2Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon2Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon3]\nMeter=BUTTON\nHidden=1\nx=369\ny=73\nButtonImage=#Icon3Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon3Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon4]\nMeter=BUTTON\nHidden=1\nx=415\ny=142\nButtonImage=#Icon4Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon4Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon5]\nMeter=BUTTON\nHidden=1\nx=431\ny=223\nButtonImage=#Icon5Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon5Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon6]\nMeter=BUTTON\nHidden=1\nx=415\ny=303\nButtonImage=#Icon6Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon6Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon7]\nMeter=BUTTON\nHidden=1\nx=369\ny=372\nButtonImage=#Icon7Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon7Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon8]\nMeter=BUTTON\nHidden=1\nx=300\ny=418\nButtonImage=#Icon8Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon8Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon9]\nMeter=BUTTON\nHidden=1\nx=220\ny=434\nButtonImage=#Icon9Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon9Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon10]\nMeter=BUTTON\nHidden=1\nx=139\ny=418\nButtonImage=#Icon10Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon10Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon11]\nMeter=BUTTON\nHidden=1\nx=71\ny=372\nButtonImage=#Icon11Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon11Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon12]\nMeter=BUTTON\nHidden=1\nx=25\ny=303\nButtonImage=#Icon12Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon12Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon13]\nMeter=BUTTON\nHidden=1\nx=9\ny=223\nButtonImage=#Icon13Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon13Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon14]\nMeter=BUTTON\nHidden=1\nx=25\ny=142\nButtonImage=#Icon14Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon14Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon15]\nMeter=BUTTON\nHidden=1\nx=71\ny=73\nButtonImage=#Icon15Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon15Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]\n\n[Icon16]\nMeter=BUTTON\nHidden=1\nx=139\ny=27\nButtonImage=#Icon16Img#\nButtonCommand=!Execute #ToggleWheel# [\"#Icon16Exe#\"] [#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]",
+			"file": "Launcher/launcheroverlay.ini",
+			"file_size": 6010,
+			"file_write_time": 131182252857773413,
+			"settings":
+			{
+				"buffer_size": 5799,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Time and Date/newtime.ini",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"last_filter": "view ",
+		"selected_items":
+		[
+			[
+				"view ",
+				"View: Toggle Menu"
+			],
+			[
+				"snippet no",
+				"Snippet: NowPlaying Plugin"
+			],
+			[
+				"rainmeter s",
+				"Snippet: Rainmeter Section"
+			],
+			[
+				"set syn rainmeter",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rain",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rainmeter",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rai",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rainme",
+				"Rainmeter: Indent for Code Folding"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"set rain",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"t",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tri",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"trimm",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimmer",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimmer ",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trim",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tr",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set syntax pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"dele",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"snippet",
+				"Snippet: Calc Measure"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"side ",
+				"Snippet: FreeDiskSpace Measure"
+			],
+			[
+				"syntax r",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package control install package",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Aeo+/Structure/autorun.exe",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Aeo+/Structure/AutoPlay/autorun.cdd",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/NEXA RS/Time and Date/newtime.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Arcs/DarkArcs.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Aeo+/Aeo+.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Aeo+/Aeo+.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/MUSIC/MUSIC v2.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Aeo+/Structure/AutoPlay/Skins Structures/Player.inc",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Greeting/greeting.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/50cm/player/player.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Encoded/Squares/Music/NowPlaying/Player_black.ini",
+		"/C/Program Files/Rainmeter/Plugins/NowPlaying.dll",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Elegance2/Music/NowPlaying_1.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Edge/Player/Player.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Circle Theme/iTunes/Middle Circle.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Chocolate/Music Player/Chocolate Bar.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/BlueVision V0.2/WINAMP/WINAMP.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/blend/Music/Music.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/50cm/variables.inc",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/ABP/Music/Music.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/VolumeControl/VolumeControl.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/MENUBAR/Volume/Volume.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Monstercat Visualizer/visualizer.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Monstercat Visualizer/Song Information/Normal.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Monstercat Visualizer/@Resources/variables.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Cdrom/OpCl.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Lano Visualizer/Visualizer/Visualizer.ini",
+		"/C/XAMPP/php/php.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/SUPERCOLOSSAL/WIDTH_1280.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/gustov/player/Arrow Player_White.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/gustov/notes/notes.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/gustov/launcher/launcher.ini",
+		"/C/Program Files (x86)/Launchy/skins/duckpower/style.qss",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/gustov/poweroff/powertoy.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/gustov/disk/disk.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/BlueVision V0.2/CPU/CPU 1-12 COMPLETE/CPU 1/CPU 1.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Circle Launcher/Microsoft Office/infoPath/infoPath.ini",
+		"/C/Users/Titus/AppData/Roaming/Rainmeter/Layouts/Enigma Basic/Rainmeter.ini",
+		"/C/Program Files/Rainmeter/Defaults/Layouts/illustro default/Rainmeter.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Binary_Clock/Decimal_HMS.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Emiko/Emiko.ini",
+		"/C/Users/Titus/Downloads/Winapp2.ini",
+		"/C/Users/Titus/PycharmProjects/Neato!/recursewindir.txt",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Arrow Player/Arrow Player_White.ini",
+		"/C/Users/Titus/PycharmProjects/Neato!/recurselocalappdata.txt",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Circle Launcher/Ableton Live/Style 1.ini",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfsystemdrive.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfprogramfiles.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselflocalappdata.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfdocuments.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfcommonappdata.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/n.txt",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Music Control/music.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Start Menu/Menu/MultiStart.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Start Menu/Menu/startmenu.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/BlueVision V0.2/STARTUP SOUND/STARTUP SOUND.ini",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfwindir.txt",
+		"/C/Users/Titus/PycharmProjects/Neato!/removeselfappdata.txt",
+		"/C/Program Files/CCleaner/winapp2.ini",
+		"/C/Program Files/LiteStep/Profiles/Titus/personal/evars.rc",
+		"/C/Program Files/LiteStep/Profiles/Titus/themes/themeselect.rc",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#Win8Sidebar/Toggle/Toggle.ini",
+		"/C/Users/Titus/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Titus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/VisBubble/BarExtrude.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/Extra/SearchButton/SearchButtonAct.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#Win8Sidebar/Addons/Start/Start.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/Panels/MediaRemote/MediaRemote3.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Aeo+/Aeo+.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#TopBar/Addons/Wireless/Wireless.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/Panels/User/User.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#Win8Sidebar/Sidebar/Sidebar.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#TopBar/Addons/User/User.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/Extra/SearchButton/SearchButton.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/GoogleSearch/GoogleSearchDark.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/galleryarrow.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/Extra/RainmeterToggler/RainmeterToggler.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/System Monitoring/full monitor.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Start Menu/startorb.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/InstalledPanels/FactCore/FactCore.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/HUD Style clock/YBoris-Time/YBorisTime.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Power Control/powertoy.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/Panels/WorldClock/WorldClock2.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/PolarPrecise Modded Clock/clock.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Modded Steam Wheel/Steam Wheel.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Branding/rplusl.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/InstalledPanels/Eject/Eject.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/InstalledPanels/Piano/pianoWin8.ini",
+		"/E/Games/GTA Vice City/X.x.X  Hack.sys",
+		"/C/Program Files (x86)/Launchy/skins/N2/style.qss",
+		"/C/Users/Titus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Greeting/greeting.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Need for Speed/Clock/Clock.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/50cm/battery/battery2.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/BatteryPoint/Request/Request.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Skis/Skis.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NoName/Recycle Bin/Recycle Bin.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Metro UI/Meters/Recycle Bin/Recycle Bin Large.ini",
+		"/C/Users/Titus/Desktop/stuff/rklauncher/themes/Default/theme.conf",
+		"/C/Users/Titus/Desktop/stuff/rklauncher/itemlist.conf",
+		"/C/Users/Titus/Desktop/stuff/rklauncher/RKLauncher.conf",
+		"/C/Users/Titus/Desktop/stuff/rklauncher/dockletstemp.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/ProtoClay/background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/CrystalXP.net/background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/Brushed/Background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/Blank/Background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/AstroGrey/background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/AstroGlass/background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/AstroGlass/separator.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/Aero Milk/Background.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/NEXA/Separator.ini",
+		"/C/Program Files (x86)/RocketDock/Skins/NEXA/Background.ini",
+		"/C/Users/Titus/Desktop/stuff/NEXA/Background.ini",
+		"/C/Users/Titus/Desktop/stuff/NEXA/Separator.ini",
+		"/C/Program Files (x86)/RocketDock/Languages/1071.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Multi Start Menu/startorb.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Edge/Start/Start.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Enigma/Sidebar/Network/Network.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/testing/neti2.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/testing/netmod.ini",
+		"/C/Users/Titus/AppData/Roaming/Rainmeter/Rainmeter.log",
+		"/C/Users/Titus/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/testing/neti.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/50cm/hdd/hdd3/hdd32.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/XPert 2.0/Drive/Drive C/Black-Blue ° Normal.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Need for Speed/Memory Tech/Memory Tech.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Avengers/CPU/2 Core.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/System Monitoring/Black-Blue ° Normal.ini"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Y=22",
+			"H=2",
+			"W=(ROUND(320/101))",
+			"H=1",
+			"W=(320/101)",
+			"(320/100)",
+			"(710/100)",
+			"H=2",
+			"FontColor=255,255,255",
+			"#fontname#",
+			"#FontFace#",
+			"[variables]\n\n\nopacity=0\n\n\ntheme=5\n\nfont1=trebuchet ms\nfont2=[z] prozak\n\ncase=proper\n\n\nsize1=8\nsize2=24\n\nType=m\npostfix=C\nLocation=ITXX0085\n\nHDD1=C\nHDD2=G\nHDD3=E\nHDD4=F\n\ngname=nintendino\ngpass=nintendo\n\nPlayerName=itunes\n\n\nApp1=Opera\nAppLink1=C:\\Program Files (x86)\\Opera\\opera.exe\nappcolor1=235,0,4,255\nappcolor1-1=#color1#\n\nApp2=FireFox\nAppLink2=C:\\Program Files (x86)\\mozilla firefox\\firefox.exe\nappcolor2=255,80,30\nappcolor2-1=#color1#\n\nApp3=Photoshop\nAppLink3=C:\\Program Files (x86)\\Adobe\\Adobe Photoshop cs5\\photoshop.exe\nappcolor3=10,85,225\nappcolor3-1=#color1#\n\nApp4=uTorrent\nAppLink4=C:\\Program Files (x86)\\utorrent\\utorrent.exe\nappcolor4=0,140,0\nappcolor4-1=#color1#\n\nApp5=iTunes\nAppLink5=c:\\Program Files (x86)\\iTunes\\iTunes.exe\nappcolor5=30,40,255\nappcolor5-1=#color1#\n\nApp6=PirateApp\nAppLink6=C:\\Users\\[MeasureUser]\\Documents\\Windows Media\\installers\\pirate-1006.exe\nappcolor6=70,235,70\nappcolor6-1=#color1#\n\n---------------------------------------------------------------------------------\n\nexplorer=Explorer\nAppLink1=C:\\Program Files (x86)\\Opera\\opera.exe\nexplorercolor=245,200,50\nexplorercolor-1=#color1#\n\n---------------------------------------------------------------------------------\n\n\nDoc1=Docs\nDocLink1=c:\\users\\[MeasureUser]\\Documents\nDoccolor1=100,120,140\nDoccolor1-1=#color1#\n\nDoc2=Pictures\nDocLink2=c:\\users\\[MeasureUser]\\pictures\nDoccolor2=100,120,140\nDoccolor2-1=#color1#\n\nDoc3=Music\nDocLink3=c:\\users\\[MeasureUser]\\Music\nDoccolor3=100,120,140\nDoccolor3-1=#color1#\n\nDoc4=Videos\nDocLink4=c:\\users\\[MeasureUser]\\Videos\nDoccolor4=100,120,140\nDoccolor4-1=#color1#\n\nDoc5=Computer\nDocLink5=::{20D04FE0-3AEA-1069-A2D8-08002B30309D}\nDoccolor5=100,120,140\nDoccolor5-1=#color1#\n\nDoc6=Games\nDocLink6=C:\\Users\\[MeasureUser]\\Documents\\Games\nDoccolor6=100,120,140\nDoccolor6-1=#color1#\n\nDoc7=User\nDocLink7=c:\\users\\[MeasureUser]\nDoccolor7=100,120,140\nDoccolor7-1=#color1#\n\n\n\n\n\n\n\n\n\n\n#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=\n\n[MeasureUser]\nMeasure=Plugin\nPlugin=Plugins\\SysInfo.dll\nSysInfoType=USER_NAME\n\n#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n@includecol=#rootconfigpath#colors#theme#.inc\n",
+			"H=11",
+			"Y=6",
+			"X=",
+			"W=1",
+			"Fontcolor=255, 255, 255, 200",
+			"StringStyle=Bold",
+			"FontSize=16",
+			"ImageAlpha=180",
+			"ImageAlpha=160",
+			"ImageAlpha=100",
+			"H=40",
+			"W=40",
+			"NewMedia",
+			"newmedia",
+			"WindowY=900",
+			"Windowy=",
+			"WindowX=",
+			"windowx=",
+			"**",
+			"*",
+			"FileKey",
+			"%ProgramFiles%",
+			"FileKey",
+			"|*.*|RECURSE",
+			"RECURSE",
+			"\\\\",
+			"\\",
+			"%AppData%",
+			"|*.*|",
+			"=",
+			"FileKey",
+			"REMOVESELF",
+			"REmoveself",
+			"Filekey",
+			"Detect",
+			"Langsecref",
+			"Filekey",
+			"=",
+			"RegKey",
+			"\\\\",
+			"*.log",
+			"=",
+			"RegKey",
+			"*",
+			"\\",
+			"|*.*|REMOVESELF",
+			"REMOVESELF",
+			"=",
+			"FileKey",
+			"Exclude",
+			"RegKey",
+			"Warning",
+			"Section",
+			"Detect",
+			"Detect*",
+			"[",
+			"Detect=",
+			"Detect=*",
+			"Default=False",
+			"LangSecRef=",
+			"delete",
+			"REMOVESELF",
+			"group",
+			"FontColor=255, 255, 255, 200",
+			"FontColor=0,0,0,180",
+			"FontColor=0,0,0,150",
+			"FontColor=255, 255, 255, 80",
+			"FontFace=04b_19",
+			"mPlayer",
+			"(71/100)",
+			"W=((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100)",
+			"W=(ROUND((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100))",
+			"mPlayer",
+			"mplayer",
+			"W=((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100)",
+			"W=(ROUND((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100))",
+			"H=8",
+			"Hidden=0\nGroup=MUSICTAB",
+			"Hidden=0",
+			"Group=MUSICTAB",
+			"#WORKAREAWIDTH#",
+			"ImageAlpha=100",
+			"#ROOTCONFIGPATH#",
+			"#SmallIconSize#",
+			"#MediumIconSize#",
+			"drive",
+			"hd",
+			"#BigIconSize#",
+			"FontFace=#FontFace#",
+			"FontFace=",
+			"[#SKINSPATH#Steam Wheel\\sounds\\applaunch.wav]",
+			"metertitle",
+			"Valuecolor",
+			"meterline",
+			"Y=51",
+			"Y=46",
+			"Y=54",
+			"Y=68",
+			"Y=44",
+			"Hidden=0",
+			"Hidden=1",
+			"#Style#",
+			"[PLAY Skins\\Steam Wheel\\sounds\\applaunch.wav]",
+			"Y=6\nW=21\nH=24",
+			"X=39\nY=11",
+			"#FontName#",
+			"#LocalFontFace#"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Y=21",
+			"H=4",
+			"W=(ROUND(320/100))",
+			"H=2",
+			"W=(ROUND(320/101))",
+			"(320/101)",
+			"(320/100)",
+			"H=1",
+			"FontColor=#textcolor1#",
+			"#fontnamebold#",
+			"#fontname#",
+			"",
+			"Y=",
+			"W=20",
+			"Fontcolor=255, 255, 255, 255",
+			"StringStyle=Normal",
+			"FontSize=12",
+			"ImageAlpha=200",
+			"ImageAlpha=180",
+			"ImageAlpha=160",
+			"H=20",
+			"W=20",
+			"visitor tt1 brk",
+			"WindowY=96",
+			"WindowY=16",
+			"WindowY=743",
+			"WindowY=663",
+			"WindowY=582",
+			"WindowY=501",
+			"WindowY=420",
+			"WindowY=339",
+			"WindowY=258",
+			"WindowY=177",
+			"WindowY=96",
+			"WindowY=16",
+			"*",
+			"**",
+			"\\",
+			"\\\\",
+			"FontColor=0,0,0,160",
+			"FontColor=0,0,0,180",
+			"FontColor=0,0,0,150",
+			"FontFace=NewMedia",
+			"mTitle",
+			"(710/100)",
+			"W=(71/100)",
+			"W=(ROUND(71/100))",
+			"mTitle",
+			"W=(71/100)",
+			"W=(ROUND(71/100))",
+			"H=2",
+			"770",
+			"ImageAlpha=180",
+			"20",
+			"26",
+			"42",
+			"[#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]",
+			"FontColor",
+			"Y=53",
+			"Y=51",
+			"Y=60",
+			"Y=46",
+			"Y=54",
+			"Hidden=1",
+			"Hidden=0",
+			"NEXA",
+			"[#SKINSPATH#Steam Wheel\\sounds\\applaunch.wav]",
+			"Y=6\nW=1\nH=11",
+			"X=25\nY=6",
+			"NewMedia",
+			"#FontName#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "uservariables.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Music Control/music.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17954,
+								17954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 20364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Volume/volumefull.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Date/date.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Greeting/greeting.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Power Control/powertoy.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Launcher/launcheroverlay.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Time and Date/newtime.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nexa.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
