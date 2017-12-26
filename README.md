@@ -2,6 +2,10 @@
 
 A rainmeter geek's take on several minimal user interface layouts. A hobby project that gives an overlay UI on top of Windows shell using Rainmeter.
 
+Here's a screenshot of how it looks like:
+
+![Alt text](extras/s1.png?raw=true "Screenshot")
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
